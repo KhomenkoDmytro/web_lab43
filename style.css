@@ -1,0 +1,25 @@
+body{
+    padding: 0px 50px;
+    margin: 0px auto;
+}
+.header{
+    text-align: center;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    border:3px solid aqua;
+}
+.form1{
+    display: flex;
+}
+.inp{
+    max-width: 14px;
+}
+.main div{
+    background-color: aqua;
+    border:3px solid black;
+    text-align: center;
+    width:100%;
+
+}
